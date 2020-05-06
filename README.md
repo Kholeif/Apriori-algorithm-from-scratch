@@ -1,0 +1,2 @@
+# Apriori-algorithm-from-scratch
+In this project we are going to apply Apriori algorithm to find all the association rules in the given dataset . The dataset itself represents the customer data for an insurance company , it has 86 attributes with 5822 records. our task is to find all the possible association rules for user-defined values of support and confidence.  Additionally, we are going to compute the lift and leverage for each rule so that we prioritize the rules
